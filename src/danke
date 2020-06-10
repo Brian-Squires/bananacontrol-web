@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <script>
+         setTimeout(function(){
+            window.location.href = 'https://github.com/Brian-Squires/BananaControl/blob/master/README.md';
+         }, 5000);
+      </script>
+      <H1>Thank you!</H1>
+      <p>you will be redirected shortly...</p>
+   </body>
+</html>
